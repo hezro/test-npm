@@ -1,6 +1,7 @@
 {
   "name": "sandbox",
   "version": "7.0.0",
+  "private": true,
   "description": "",
   "main": "src/server/api.js",
   "scripts": {
