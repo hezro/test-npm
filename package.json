@@ -70,7 +70,7 @@
     "@material-ui/icons": "^4.11.2",
     "@material-ui/lab": "^4.0.0-alpha.60",
     "@material-ui/pickers": "^3.3.10",
-    "@okta/jwt-verifier": "^2.3.0",
+    "@okta/jwt-verifier": "^3.0.0",
     "@okta/okta-auth-js": "^5.11.0",
     "@okta/okta-react": "^6.1.0",
     "@testing-library/react-hooks": "^7.0.2",
